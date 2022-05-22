@@ -1,0 +1,16 @@
+{
+  "helloWorld": "Hello World!",
+  "home": "Home",
+  "convert": "convert currency",
+  "language": "language",
+  "logout": "Logout",
+  "checks": "Cheques",
+  "goal": "Goals",
+  "resentactivites": "Latest Transfers",
+  "email": "Email",
+  "password": "Password",
+  "username": "User Name",
+  "createaccount": "Create Account",
+  "theme": "Theme",
+  "sendnotification": "Remmeber me "
+}

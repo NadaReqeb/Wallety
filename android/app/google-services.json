@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141693344474",
+    "project_id": "personalfinance-c9310",
+    "storage_bucket": "personalfinance-c9310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141693344474:android:d13f68de1aa14341f2a3e3",
+        "android_client_info": {
+          "package_name": "com.example.wallety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141693344474-4gooed5osiadcfkgm77tq1lohb704cfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2IoWwFxZGA7DqBvtQxoEAr78A9T5Ly5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141693344474-4gooed5osiadcfkgm77tq1lohb704cfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
